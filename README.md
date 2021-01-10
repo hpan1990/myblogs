@@ -1,4 +1,4 @@
-# 潘航的博客
+# 我的博客
 
 > [个人博客]（https://www.baidu.com/ "baidu")
 
